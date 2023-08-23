@@ -60,4 +60,4 @@ require (
 	lukechampine.com/blake3 v1.1.7 // indirect
 )
 
-replace github.com/iden3/go-iden3-core => github.com/shibaone/go-iden3-core v1.0.3-alpha
+replace github.com/iden3/go-iden3-core => github.com/shibaone/go-iden3-core v1.0.3-alpha.2
